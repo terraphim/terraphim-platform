@@ -1,0 +1,12 @@
+[submodule "terraphim-ui-svelte-ts"]
+	path = terraphim-ui-svelte-ts
+	url = https://github.com/terraphim/terraphim-ui-svelte-ts.git
+[submodule "terraphim-cloud-fastapi"]
+	path = terraphim-cloud-fastapi
+	url = https://github.com/terraphim/terraphim-cloud-fastapi.git
+[submodule "terraphim-platform-pipeline"]
+	path = terraphim-platform-pipeline
+	url = https://github.com/terraphim/terraphim-platform-pipeline.git
+[submodule "terraphim-firecracker"]
+	path = terraphim-firecracker
+	url = https://github.com/terraphim/terraphim-firecracker
