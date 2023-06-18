@@ -6,6 +6,7 @@ main-pipeline:
   PIPELINE --push 
   TRIGGER push main 
   TRIGGER pr main 
+  BUILD +all
 
 all:
     BUILD ./terraphim-cloud-fastapi/+build-fastapi
