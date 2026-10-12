@@ -1,4 +1,12 @@
 # terraphim-platform
+
+> **Archived repository**
+>
+> The main Terraphim repository is now [terraphim/terraphim.ai](https://github.com/terraphim/terraphim.ai).
+> Start there for current work. This repository is retained as a read-only historical reference.
+>
+> The documentation below describes the former Terraphim AI Private Cloud Platform.
+
 Overall repository for Terraphim AI Private Cloud Platform. 
 
 Everything below can be build using https://earthly.dev/ or earhtly.ci.
